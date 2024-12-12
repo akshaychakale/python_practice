@@ -1,3 +1,4 @@
+print("ENTER A YEAR: ")
 year = int(input("Enter a year: "))
 
 def isLeapYear(year):
